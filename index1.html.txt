@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dejon Glasco's Cosmic Rocks</title>
+    <style>
+        body {
+            background-color: #28004d;
+            color: #f00606;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 80vh;
+        }
+
+        .rocks-info {
+            text-align: center;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #1a001f;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Dejon Glasco's Cosmic Rocks</h1>
+    </header>
+
+    <div class="container">
+        <div class="rocks-info">
+            <h2>Explore the Universe in Your Hands</h2>
+            <p>Discover mesmerizing geodes and agates from the cosmic realms. Each rock is a unique piece of the universe, waiting to be part of your collection.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Contact: dejonglasco@example.com | Phone: 123-456-7890</p>
+    </footer>
+</body>
+
+</html>
